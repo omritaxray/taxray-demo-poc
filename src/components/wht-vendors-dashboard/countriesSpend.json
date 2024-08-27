@@ -1,0 +1,32 @@
+[
+    {
+        name: "Netherlands",
+        value: 15,
+        amount: "$127.5M"
+    },
+    {
+        name: "Israel",
+        value: 5,
+        amount: "$42.5M"
+    },
+    {
+        name: "Sri Lanka",
+        value: 10,
+        amount: "$85M"
+    },
+    {
+        name: "Canada",
+        value: 27,
+        amount: "$229.5M"
+    },
+    {
+        name: "India",
+        value: 22,
+        amount: "$187M"
+    },
+    {
+        name: "Mexico",
+        amount: "$178.5M",
+        value: 21
+    }
+]
